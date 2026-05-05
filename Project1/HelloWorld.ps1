@@ -1,0 +1,1 @@
+write-information "hello world" -InformationAction Continue
