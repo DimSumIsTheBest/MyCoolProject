@@ -1,0 +1,2 @@
+# MyCoolProject
+A cool project
